@@ -1,0 +1,16 @@
+{
+  "name": "wendaboxwechat-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "mongodb":"*",
+    "mongoose":"*",
+    "body-parser":"*",
+    "azure-storage": "*",
+    "connect-multiparty":"*",
+    "nodemailer": "*",
+    "xml2js":"*"
+  }
+}
