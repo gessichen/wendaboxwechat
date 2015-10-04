@@ -50,7 +50,7 @@ app.get('/', function (req, res) {
 
 /*---------------------------------------------user related functions---------------------------------------*/
 app.post("/", function (req, res) {
-  res.send(app.get('port'));
+  res.send("hehe");
 });
 
 
